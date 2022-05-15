@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Prathamesh2025
 - 👀 I’m interested in Artificial Intelligence,Machine Learning and Quantum Computing
-- 🌱 I’m currently learning Masters in Information Management
+- 🌱 I’m currently pursuing Masters in Information Management
+- 🌱 I have completed Advanced Certificate Programme in Machine Learning & Deep Learning
 - 💞️ I’m looking to collaborate on Quantum Computing
 - 📫 How to reach me prathamesh.patkar@gmail.com
 
